@@ -1,3 +1,4 @@
 # HELOO-WORLD
-Learning python
+Learning python.
+
 This project is about learning python.  :)
